@@ -1,0 +1,15 @@
+Django
+djangorestframework
+channels
+channels_redis
+boto3
+django-storages
+psycopg2-binary
+django-cors-headers
+Django
+Pillow
+djangorestframework
+django-storages
+boto3
+daphne
+django-cors-headers
